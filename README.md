@@ -1,6 +1,9 @@
 Project 2 - Group 14
+
 Group members: Jana, Tia, Anthony
+
 Git repo: git@github.com:AGGII-52/Project-2_Group-14.git
+
 Datasets: 
 1.Rowan County Adoptable Animal List (Dogs, Cats) https://docs.google.com/spreadsheets/d/1Lhjn0vXGAFhgntoZJ7BuUNBBsd_zU81YQYLXA7G96iA/edit?fbclid=IwAR3P1pobzc1ml3bcYiHS1dUohkpaBI-rsTse3erJfe0U88Fmi09SG5w1QNs#gid=2
 2. SoCo Data 
