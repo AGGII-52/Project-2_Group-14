@@ -27,25 +27,23 @@ We then determined both data sets list whether an animal was a stray, surrendere
 
 Transform:
 
-Jana took the cleaned df for each CSV, after combining the data frames she added a column to identify the animal’s shelter. The combined data was loaded into a Postgres SQL database.
-                                                                                                                                                                                                              
-
+Jana took the cleaned df for each CSV, after combining the data frames she added a column to identify the animal’s shelter. The combined data was loaded into a Postgres SQL database in CatandDogTransform.ipynb.
+                                                                                                                                                                                                               
 ● Why you chose the type of final database
-
-Relational database, because there are two different types of data and both are data sets pertaining to animals.
-
-● Schema of the tables/collections in the final database
+We chose a Relational database, because there are two different types of data and both are data sets pertaining to animals.
 
 Load:
-Anthony
+Anthony set up the beginning of the Flask app.py and index.html files and Jana completed the SQLalchemy connection and rendered the data to HTML.
+
+● Schema of the tables/collections in the final database
+The data was arranged in columns of Animal ID, Description/Breed, Sex, Intake, Shelter County.
 
 ● Hypothetical use case(s) for your database
-
 Use: 
 
 To determine 
 
-1.Which species of animal is in most need of adoption/has the largest numbers available?
+1.Which species of animal is in most need of adoption/has the largest numbers available in these locations?
 
-2.Which breed of animal is in most need of adoption/has the largest numbers available?
+2.Which breed of animal is in most need of adoption/has the largest numbers available in these locations?
 
