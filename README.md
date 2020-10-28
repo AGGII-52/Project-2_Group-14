@@ -5,9 +5,11 @@ Group members: Jana, Tia, Anthony
 Git repo: git@github.com:AGGII-52/Project-2_Group-14.git
 
 Datasets: 
-1.Rowan County Adoptable Animal List (Dogs, Cats) - https://docs.google.com/spreadsheets/d/1Lhjn0vXGAFhgntoZJ7BuUNBBsd_zU81YQYLXA7G96iA/edit?fbclid=IwAR3P1pobzc1ml3bcYiHS1dUohkpaBI-rsTse3erJfe0U88Fmi09SG5w1QNs#gid=2
+1.Rowan County Adoptable Animal List (Dogs, Cats) 
+https://docs.google.com/spreadsheets/d/1Lhjn0vXGAFhgntoZJ7BuUNBBsd_zU81YQYLXA7G96iA/edit?fbclid=IwAR3P1pobzc1ml3bcYiHS1dUohkpaBI-rsTse3erJfe0U88Fmi09SG5w1QNs#gid=2
 
-2.SoCo Data - https://data.sonomacounty.ca.gov/Government/Animal-Shelter-Intake-and-Outcome/924a-vesw
+2.SoCo Data 
+https://data.sonomacounty.ca.gov/Government/Animal-Shelter-Intake-and-Outcome/924a-vesw
 
 We used the above sources based on these data sets availability and their ability to list animals currently available for adoption.
 
@@ -25,7 +27,7 @@ Jana took the cleaned df for each CSV, after combining the data frames she added
 We chose a Relational database, because there are two different types of data and both are data sets pertaining to animals.
 
 Load:
-Anthony set up the beginning of the Flask app.py and index.html files and Jana completed the SQLalchemy connection and rendered the data to HTML.
+Anthony set up the beginning of the Flask app.py file and Jana completed the SQLalchemy connection and loaded the data in JSON format.
 
 The data was arranged in columns of Animal ID, Description/Breed, Sex, Intake, Shelter County.
 
